@@ -5,4 +5,4 @@ REPO - Collection of stuff
 CLONE - Copy stuff to a new location
 COMMIT -  Save your work so far into a version
 PUSH - Take your local files and push them up to the cloud repo on github.com
-PULL - 
+PULL - Pull the version on origin (github.com) to your local machine
